@@ -1,3 +1,56 @@
+Primary Chords:
+
+---G------Bm---Cmaj7----Cm--
+---3------2------0------3---
+---3------3------0------4---
+---4------4------0------5---
+---5------4------2------5---
+---5------2------3------3---
+---3------------------------
+
+Alternate Chords:
+
+G can be played as an open chord.
+D or Gmaj7 can be played instead of Bm.
+Cmaj7 can be alternately played as a bar.
+
+---G------D----Gmaj7--Cmaj7---Cm13-
+---3------2------1------3------5---
+---0------3------2------5------4---
+---0------2------0------4------5---
+---0------0------0------5----------
+---2-------------0------3------3---
+---3-------------2-----------------
+
+Techniques:
+
+The bars can be used for muting the chords when available. When not
+available (e.g., Cmaj7), the left hand pinky can be layed across the
+string to mute them.
+
+The Cm13 can be used at the end of each phrase, taking up half of Cm's
+usual space. The Cm13 fingering is not the "traditional" Cm13; it's
+just kind of made-up, but it sounds good. To play it, just do the bar
+like the regular Cm, and your index finger will probably mute the D
+string instead of allowing it to resonate.
+
+Strumming:
+
+Throughout the entire song, this is the (read: a possible) strum
+pattern. Each "-" represents a sixteenth note.
+
+G               Bm
+3--3XX3--3XX3-XX2
+3--3XX3--3XX3-XX3
+4--4XX4--4XX4-XX4
+5--5XX5--5XX5-XX4
+5--5XX5--5XX5-XX2
+3--3XX3--3XX3-XX-
+
+And so on.
+
+Lyrics:
+
 You had a lot of crooks tryna steal your heart
 Never really had luck, couldn't ever figure out
 How to love
