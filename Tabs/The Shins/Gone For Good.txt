@@ -211,7 +211,9 @@ Beginning of solo (correct octave)
 First chord shape:
 
 Fingerings:
-
+         This note is wrong. It should be 12.
+                    |
+                    V
     2 4 1 2 4 3 2 4 3 1 2 1 3  1 3  2 3  1     4  4 1 2 3   3 2 1  2
 
   1 e + a 2 e + a 3 e + a 4 e  + a  1 e  + a 2 e  + a 3 e + a 4 te to
