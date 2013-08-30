@@ -1,0 +1,171 @@
+Careful by Guster
+
+Tabbed by Sean Fisk
+
+Flat tuning (half step lower than standard tuning)
+
+Notes:
+
+- The vocal harmony in the chorus and various places in the verses is 2 steps lower than the melody.
+- The second verse uses a Dm instead of the first D.
+- The last chorus uses the line "Careful you don't hurt yourself" instead of "Careful or you'll hurt yourself"
+
+
+Chords:
+
+--C/G--Am--D---F--C/G6-Em--G---Dm--G6--
+---0---0---2---1---0---0---3---1---0---
+---1---1---3---1---1---0---3---3---0---
+---0---2---2---2---0---0---4---2---0---
+---2---2---0---3---0---2---5---0---0---
+---3---0-------3---2---2---5-------2---
+---3-----------1---3---0---3-------3---
+
+
+Intro:
+
+C/G
+1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a
+0---0-0---0-0-0---0-0-0---0-0---
+1---1-1---1-1-1---1-1-1---1-1---
+0---0-0---0-0-0---0-0-0---0-0---  X 4
+2---0-2---2-0-2---2-0-2---2-0---
+3---3-3---3-3-3---3-3-3---3-3---
+3---3-3---3-3-3---3-3-3---3-3---
+
+
+Verse 1:
+
+               Am                      D
+And you walked out when I asked you to stay
+      F                   C      C/G6
+As usual, you'll get your way
+               Am
+You closed the door
+                        D
+And stumbled out in the street
+                     F
+Where you wring your hands
+                  C     C/C6
+And you drag your feet, there
+
+
+Pre-chorus:
+
+(single strums)
+
+          F
+Where the words can't find you
+   (F)
+To crawl inside you
+
+
+Chorus:
+
+    C/G                     F
+I'm ringin' all the warnin' bells
+ C/G                       F
+Careful or you'll hurt yourself
+       C/G  C/G6  Am
+Others lie, lie,  lie
+       Em  G
+They adore you
+C/G                F
+I'll be the one to tell
+ C/G                       F
+Careful or you'll hurt yourself
+      C/G  C/G6  Am
+Gonna try, try,  try,
+          F G    C/G (first note of Interlude)
+'Til the mornin' comes
+
+Interlude:
+
+(same as Intro)
+
+
+Verse 2:
+
+              Am
+But you can't hide
+                     Dm
+Standin' under these stars
+                  F
+They know everything
+                    C    C/G6
+They know where you are
+               Am
+You're in your head
+                   D
+You're all turned around with it
+              F
+And they're shinin' down the light to bring you
+C        C/G6
+Back again
+
+
+Pre-chorus:
+           F
+Back where I can find you
+  (F)
+To crawl inside you
+
+
+Chorus:
+
+    C/G                     F
+I'm ringin' all the warnin' bells
+ C/G                       F
+Careful or you'll hurt yourself
+       C/G  C/G6  Am
+Others lie, lie,  lie
+       Em  G
+They adore you
+C/G                F
+I'll be the one to tell
+ C/G                       F
+Careful or you'll hurt yourself
+      C/G  C/G6  Am
+Gonna try, try,  try,
+          F G
+'Til the mornin'
+
+(Goes right into the Bridge, don't sing "comes")
+
+
+Bridge:
+F              G
+All you want to see
+        C/G     C/G6  Am   G6
+Is make believe it's  no - thin'
+    F            G
+But way down underneath
+
+
+Chorus:
+
+(arpeggiated chords + single strums, play either)
+    C/G                     F
+I'm ringin' all the warnin' bells
+ C/G                       F
+Careful **you don't** hurt yourself
+
+(back to normal chorus volume)
+       C/G  C/G6  Am
+Others lie, lie,  lie
+       Em  G
+They adore you
+C/G                F
+I'll be the one to tell
+ C/G                       F
+Careful or you'll hurt yourself
+      C/G  C/G6  Am
+Gonna try, try,  try,
+          F G    C/G (first note of Outro)
+'Til the mornin' comes
+
+Outro:
+
+(same as Intro)
+
+End on C/G
