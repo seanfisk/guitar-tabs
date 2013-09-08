@@ -7,7 +7,7 @@ This is a tab of the demo version, which, in my opinion, is much better than the
 
 Chords:
 
-Em  Cmaj7  G6  G/F#
+  Em  Cmaj7  G6  G/F#
 --X-----X----X---X---
 --0-----0----0---0---
 --0-----0----0---0---
