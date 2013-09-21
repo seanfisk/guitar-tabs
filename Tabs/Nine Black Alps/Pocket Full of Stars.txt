@@ -1,17 +1,39 @@
 Pocket Full of Stars by Nine Black Alps
 
-Guitar 1:
+TODO:
+- Add walk-up (bridge)
+- Add lyrics
+- Add fingerpicking with lyrics
+- Add lead guitar with lyrics
 
-This carries on throughout the entire song.
+Guitar 1 :
+
+These part are just marked as chords in the song, but play
+
+Tip: Do not place your fingers on the strings until absolutely necessary. Keep your fingers on the strings for as long as possible.
+
+Intro and Chorus:
 
 Am      C       G       D
 1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a
 ---0-------0-------3-------2----
--1---1-0-1---1-0-0---0-0-3---3-0
---2---2---0---0---0---0---2---2-
+-1---1---1---1-0-0---0-0-3---3-0
+--2---20--0---0---0---0---2---2-
 --------------------0---0-------
 0-------3-------------------0---
 ----0-------3---3---------------
+
+Verse and Interlude:
+
+C       Em      G       D
+1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a
+---0-------0-------3-------2----
+-1---1-0-0---0-0-0---0-0-3---3-0
+--2---2---0---0---0---0---2---2-
+------------------------0---0---
+3---3---------------------------
+--------0---0---3---3-----------
+
 
 Guitar 2:
 
