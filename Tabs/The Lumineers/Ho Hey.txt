@@ -3,16 +3,28 @@ by The Lumineers
 
 Standard Tuning, 75 bpm
 
+Chords:
+
+  C  F  Am  G
+--0--1--0---1--
+--1--1--1---0--
+--0--2--2---0--
+--2--3--2---0--
+--3-(3)-0---2--
+--0--0--0---3--
+
+For the intro part, put your pinky on the 3rd fret on the D string and move your middle finger to 2nd fret on the G string. Then form a minibar with your index finger over the e and B strings.
+
 INTRO:
 F|: C F :| (4X)
 
-C                               F C           C  F  Am  G
-I've been trying to do it right             --0--0--0---1--
-C                               F C         --1--1--1---0--
-I've been living the lonely life            --0--2--2---0--
-C                               F C         --2--3--2---0--
-I've been sleeping here instead             --3--0--0---2--
-C                               F Am        --0--0--0---3--
+C                               F C
+I've been trying to do it right
+C                               F C
+I've been living the lonely life
+C                               F C
+I've been sleeping here instead
+C                               F Am
 I've been sleeping in my bed
 Am                   G       C
 I've been sleeping in my bed
