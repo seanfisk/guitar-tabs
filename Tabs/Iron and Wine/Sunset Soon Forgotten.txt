@@ -1,29 +1,28 @@
-D                                       A
-1 e+a2e+a3e+a4-e+a1e+a2-e+a3e+a4 e+a1 e+a2e+a3 e+a4e+a1 e+a2e+a3 e+a4e+a
-----0------------0--------0--------0------------------------------------
-2h3-----3---3--------3--------3---------2---2----2---2----2---2----2---2
-------2---2-----2--2-----2--2-----2-------2--------2--------2--------2--
----4---4---4-2h4----4-2h4----4-2h4-----2---2----2---2----2---2----2---2-
-------------------------------------2/4--0---2/4--0---2/4--0---2/4--0---
-------------------------------------------------------------------------
+Sunset Soon Forgotten by Iron and Wine
+Tabbed by Sean Fisk
 
-By doing the following (open G tuning):
-- tune high e down to 2
-- tune A down to G
-- use capo 2
+Tuning: Open G, Capo 2
+- Tune high E down to D
+- Tune A down to G
+- Low E can be tuned down to D, but it doesn't really matter as it is not used in this song.
+- Use capo 2
+- Chords given relative to the capo.
+- The song is a little flat compared to correct tuning at 440hz.
 
-We get:
+Tempo: about 90 beats per minute
 
-D                                       A
-1 e+a2e+a3e+a4 e+a1e+a2 e+a3e+a4 e+a1 e+a2e+a3 e+a4e+a1 e+a2e+a3 e+a4e+a
-----0------------0--------0--------0------------------------------------
-0h1-----1---1--------1--------1---------0---0----0---0----0---0----0----
-------0---0-----0--0-----0--0-----0-------0--------0--------0--------0-- X 4
----2---2---2-0h2----2-0h2----2-0h2-----0---0----0---0----0---0----0---0-
-0--------0--------0--------0--------2/4--0---2/4--0---2/4--0---2/4--0---
-------------------------------------------------------------------------
+There are two basic patterns:
 
-C#m             Bm              A
+C                                  G
+1e+a2e+a3e+a4 e+a1e+a2 e+a3e+a4 e+a1 e+a2e+a3 e+a4e+a1 e+a2e+a3 e+a4e+a
+---0------------0--------0--------0------------------------------------
+1------1---1--------1--------1---------0---0----0---0----0---0----0----
+-----0---0-----0--0-----0--0-----0-------0--------0--------0--------0--
+--2---2---2-0h2----2-0h2----2-0h2-----0---0----0---0----0---0----0---0-
+0-------0--------0--------0--------2/4--0---2/4--0---2/4--0---2/4--0---
+-----------------------------------------------------------------------
+
+Bm              Am              G
 1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a1 e+a2e+a3 e+a4e+a1 e+a2e+a3 e+a4e+a
 ---0-------0-------0-------0----------------------------------------
 3------3--------1------1-------1----0---0----0---0----0---0----0----
@@ -31,3 +30,65 @@ C#m             Bm              A
 --2---2---2---2---2---2---2---2----0---0----0---0----0---0----0---0-
 4---4---4---4---2---2---2---2---2/4--0---2/4--0---2/4--0---2/4--0---
 --------------------------------------------------------------------
+
+* Note: the first note is a hammer-on, like this. Everything else is the same.
+
+C
+1 e+a2e+a3e+a4 e+a1e+a2 e+a3e+a4 e+a
+----0------------0--------0--------0
+0h1-----1---1--------1--------1-----
+------0---0-----0--0-----0--0-----0-
+---2---2---2-0h2----2-0h2----2-0h2--
+0--------0--------0--------0--------
+------------------------------------
+
+Intro:
+
+C          G
+C          G
+
+Verse 1:
+
+C                               G
+Me -- the sunset soon forgotten
+     C                                   G
+Your brothers left here shaved and crazy
+      C                                  G
+We've learned to hide our bottles in the well
+    C                                         G
+And what's worth keepin', sun's still sinkin'
+
+Chorus:
+
+Bm      Am          G
+Down and down once again
+Bm      Am           G
+Down and down, gone again
+
+Instrumental:
+
+C          G
+C          G
+
+Verse 2:
+
+C                             G
+Be the sunset one for keepin'
+     C                                    G
+This June bug street sings low and lovely
+      C                                   G
+Those band-aid children chased your dog away
+    C                                    G
+She runs, returning, sun's still sinkin'
+
+Chorus:
+
+Bm      Am          G
+Down and down once again
+Bm      Am           G
+Down and down, gone again
+
+Outro:
+
+C          G
+C          G
