@@ -42,8 +42,7 @@ D x 8
 
 Outro:
 
-D x 4
-C/G x 4
+C/G x 8
 Em/G x 6
 C/G x 2
 G (last chord)
