@@ -1,0 +1,18 @@
+# -*- mode: conf-unix; coding: utf-8; -*-
+
+# EditorConfig is awesome: http://EditorConfig.org
+
+# Top-most EditorConfig file
+root = true
+
+# Defaults
+[*]
+# Don't use end_of_line; Git will take care of that.
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# 4-space indentation
+[*.md]
+indent_style = space
+indent_size = 4
