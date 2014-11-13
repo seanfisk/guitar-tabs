@@ -1,7 +1,11 @@
-Muddy Hymnal by Iron and Wine
-Tabbed by Sean Fisk
+-------------------------------------------------------------------------------
+                         MUDDY HYMNAL - Iron and Wine
+-------------------------------------------------------------------------------
 
-Tuning: Capo 1 for original
+Tabbed by: Sean Fisk
+Website: https://github.com/seanfisk/guitar-tabs
+
+Tuning: Standard, Capo 1
 Tempo: about 95 beats per minute
 
 Verse 1:
