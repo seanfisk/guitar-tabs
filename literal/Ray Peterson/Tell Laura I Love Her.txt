@@ -1,16 +1,22 @@
-Tell Laura I Love Her by Ray Peterson
+------------------------------------------------------------------------------
+                    TELL LAURA I LOVE HER - Ray Peterson
+------------------------------------------------------------------------------
 
-Tabbed by Sean Fisk
+Tabbed by: Sean Fisk
+Email: sean@seanfisk.com
+Website: https://github.com/seanfisk/guitar-tabs
 
-Capo 1 to match the song
+Tuning: Standard, Capo 1 to match the song
 
----A------D------C#m----Bm-----E7-----
----5------5------4------7------7------
----5------7------5------7------9------
----6------7------6------7------7------
----7------7------6------9------9------
----7------5------4------9------7------
----5--------------------7-------------
+Chords:
+
+   A    D    C#m  Bm   E7
+|--5----5----4----7----7--
+|--5----7----5----7----9--
+|--6----7----6----7----7--
+|--7----7----6----9----9--
+|--7----5----4----9----7--
+|--5--------------7-------
 
 Verse 1:
 
@@ -28,20 +34,18 @@ A                   D
    C#m                Bm
 He couldn't get Laura on the phone
    E7
-So to her mother, Tommy said
-
+So to her mother, Tommy said,
 
 Chorus:
 
 A
-  Tell Laura I love her
+  "Tell Laura I love her
              Bm
 Tell Laura I need her
              A
 Tell Laura I may be late
      Bm                           A
-I've something to do, that cannot wait
-
+I've something to do, that cannot wait."
 
 Verse 2:
 
@@ -61,20 +65,18 @@ A                 D
     C#m                          Bm
 But as they pulled him from the twisted wreck
          E7
-With his dying breath, they heard him say
-
+With his dying breath, they heard him say,
 
 Chorus:
 
 A
-  Tell Laura I love her
+  "Tell Laura I love her
              Bm
 Tell Laura I need her
            A
 Tell Laura not to cry
    Bm                      A
-My love for her will never die
-
+My love for her will never die."
 
 Verse 3:
 
@@ -85,16 +87,15 @@ A                    D
        C#                Bm
 It was just for Laura he lived and died
   E7
-Alone in the chapel she can hear him cry
-
+Alone in the chapel she can hear him cry,
 
 Chorus:
 
 A
-  Tell Laura I love her
+  "Tell Laura I love her
              Bm
 Tell Laura I need her
            A
 Tell Laura not to cry
    Bm                      A
-My love for her will never die
+My love for her will never die."
