@@ -1,0 +1,141 @@
+-------------------------------------------------------------------------------
+                       DANNY'S SONG - Loggins & Messina
+-------------------------------------------------------------------------------
+
+Tabbed by: Sean Fisk
+Email: sean@seanfisk.com
+Website: https://github.com/seanfisk/guitar-tabs
+
+Tempo: ≈140 BPM
+Tuning: Standard
+
+Note: Not EXACTLY what is played in the recording. Slight artistic variations added for what I play.
+
+Intro:
+
+  D
+  1e+a2e+a3e+a4e+a
+e|---2---2---2---2
+B|-3---3---3---3--
+G|--2---2---2---2-
+D|0---0---0---0---
+A|----------------
+E|----------------
+
+Verse:
+
+  D       C       Bm              E               A
+  1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a
+e|---2-------0-----------2---------------0-------------------0----
+B|-----3-------1-----3-------3-------0-------0---0---2---3-------2†
+G|--2---2---0---0------4---4---4---1---1---1---1---2---2---2---2-- ✕ 2
+D|0---0-------------4---4---4---4---2---2---2---2---2---2---2---2-
+A|--------3---3---2---2---2---2-------------------0---0---0---0---
+E|--------------------------------0---0---0---0-------------------
+
+† Omit this last note on the second time
+
+Chorus:
+
+  G       A       D       Bm†
+  1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a
+e|------------------2-------------
+B|--3--3----5--5----3--------3----
+G|--4-------6----6--2--2-------4-- × 2
+D|--5---5---7---7-0-----0---4---0-
+A|--------------------4---2---0---
+E|3---3---5---5-------------------
+
+† On the Bm, remove pointer and pinky at the last moment possible to allow the notes to ring.
+
+  G       A       D       C
+  1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a
+e|------------------2-------------
+B|--3--3----5--5----3--3----------
+G|--4-------6----6--2---2--0---0--
+D|--5---5---7---7-0---0-----2---0-
+A|------------------------3---3---
+E|3---3---5---5-------------------
+
+  Bm      E       A
+  1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a
+e|--------------------------------
+B|---3-------0------2-------------
+G|-----4-------1----2-------------
+D|--4---4---2---2---2-------------
+A|2---2-----------0---------0-2-4-
+E|--------0---0-------------------
+
+Outro:
+
+Verse pattern × 1
+
+  D       C       Bm              E       A       D       * *
+  1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a1e+a2e+a3e+a4e+a
+e|---2-------0-----------2---------------------------2----2---2---
+B|-----3-------1-----3-------3-------0-------2---------3--3---3---
+G|--2---2---0---0------4---4---4-------1-------2----2---2-2---2---
+D|0---0-------------4---4---4---4---2---2---2---2-0---0-----0-0---
+A|--------3---3---2---2---2---2-----------0---0-------------------
+E|--------------------------------0---0---------------------------
+
+
+* Mute with pinky
+
+Lyrics:
+
+Verse 1:
+
+People smile and tell me I'm the lucky one
+And we've just begun
+Think I'm gonna have a son
+
+He will be like she and me, as free as a dove
+Concieved in love
+Sun is gonna shine above
+
+Chorus:
+
+And even though we ain't got money
+I'm so in love with ya honey
+And everything will bring a chain of love
+
+And in the mornin' when I rise
+You bring a tear of joy to my eyes
+And tell me everything is gonna be alright
+
+Verse 2:
+
+Seems as though a month ago I was Beta Chi
+Never got high
+Oh, was a sorry guy
+
+But now I smile and face a girl who shares my name, yeah
+And now I'm through with the game
+This boy'll never be the same
+
+Chorus
+
+Verse 3:
+
+Pisces, Virgo rising is a very good sign
+Strong and kind
+And the little boy is mine
+
+And now I see a family where there once was none
+Now we've just begun
+Yeah, we're gonna fly to the sun
+
+Chorus
+
+Verse 4:
+
+Love the girl who holds the world in a paper cup
+Drink it up
+Love her and she'll bring you luck
+
+And if you find she helps your mind, buddy, take her home, yeah
+Don't you live alone
+Try to earn what lovers own
+
+Chorus
