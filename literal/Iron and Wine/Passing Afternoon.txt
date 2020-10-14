@@ -11,6 +11,8 @@ Tuning: Standard, 1½ steps down
 
 Chords:
 
+All chords given relative to the tuning
+
    (F)  (G)  (C)
   Fmaj7  G6  C/G
 ----0----0----0----
