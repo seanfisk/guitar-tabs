@@ -1,0 +1,105 @@
+-------------------------------------------------------------------------------
+                    THE STABLE SONG - Gregory Alan Isakov
+-------------------------------------------------------------------------------
+
+Tabbed by: Sean Fisk
+Email: sean@seanfisk.com
+Website: https://github.com/seanfisk/guitar-tabs
+
+Based on recording here: https://youtu.be/AqyAmmEkVvI
+
+Tempo: ≈137 BPM
+Tuning: Capo 2 for original pitches
+
+Chords:
+
+    F†   C   C/G   Am   Fsus2(maj7) Em   G    G6
+----0----0----0----0----0-----------0----3----0----
+----1----1----1----1----1-----------0----0----3----
+----2----0----0----2----0-----------0----0----4----
+----3----2----0----2----3-----------2----0----5----
+----3----3----2----0----3-----------2----2----5----
+----1----3----3---------1-----------0----3----3----
+
+† Really an Fmaj7, but it's used so frequently we just list it in the lyrics as "F". Should be played with the thumb wrap-around.
+
+Intro:
+F               C       C/G     F               C       C/G     C           F   C
+1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
+
+Verse 1:
+  C                                    F             C      C/G            Am        F
+Remember when our songs were just like prayers? Like gospel hymns that you called in air
+      C                          F        C     C/G   Am        F
+Come down, come down, sweet reverence… Unto my simple house and ring… and ring
+
+
+Interlude 1:
+C           F               C           F               C           F               C   C/G Am  F               C           F   C
+1 2 3 4 5 6 1 2 3 4 1 2 3 4 1 2 3 4 5 6 1 2 3 4 1 2 3 4 1 2 3 4 5 6 1 2 3 4 1 2 3 4 1 2 3 4 5 6 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
+
+Chorus 1:
+ F                C        F            C        C/G           Am   F    Fsus2(maj7)
+Ring like silver, ring like gold… Ring out those ghosts on the O-hi-o
+ F                   C       F                 C            C/G            Am        F
+Ring like clear day wedding bells… Were we the belly of the beast or the sword that fell?
+
+We'll never tell
+C           F   C
+1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
+
+Interlude 2:
+F               C       C/G     F               C       C/G     C           F   C
+1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
+
+Bridge:
+Em                       F              C        F  C
+   Come to me clear and cold, on some sea
+Em                           F              C     G
+   Watch the world spinning waves, that machine
+
+Verse 2:
+    C                             F               C             C/G           Am     F
+And I've gone crazy, couldn't you tell? I threw stones at the stars but the whole sky fell
+         C                                    F              C        C/G      Am             F
+Now I'm covered up in straw, belly up on the table… Well I drank and sang and passed in the stable
+
+Mm-mm. Mm…hm-m-hmm…
+C           F   C
+1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
+
+Interlude 3:
+Em              F               C           F   C               Em              F               C               G6
+1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
+F               C       C/G     F               C       C/G     C           F   C
+1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
+
+Verse 3:
+      C                              F             C            C/G           Am      F
+And that tall grass grows high and brown… Well I dragged you straight in the muddy ground
+         C                       F            C             C/G      Am     F
+And you send me back to where I roam… Well I cursed and I cried but now I know
+            C         F  C
+Oh, now I know
+
+Verse 4:
+      C                 C/G     F          C       C/G     Am       F
+And I ran back to that hollow again… The moon was just a sliver back then
+      C                        C/G      F            C           C/G          Am             F
+And I ached for my heart like some tin man… When it came, oh it beat, and it boiled, and it rang
+
+Oh, it's ringin'
+C           F   C
+1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
+
+Chorus 2:
+ F                C         F              C     C/G     Am        F       Fsus2(maj7)
+Ring like crazy, ring like hell… Turn me back into that wild-haired gale
+ F                 C         F                C          C/G        Am     F
+Ring like silver, ring like gold… Turn these diamonds straight back into coal
+            C          C/G        Am     F
+Turn these diamonds straight back into coal… Mm-m-hmm…
+
+Outro:
+C           F               C           F               C           F               C           F
+1 2 3 4 5 6 1 2 3 4 1 2 3 4 1 2 3 4 5 6 1 2 3 4 1 2 3 4 1 2 3 4 5 6 1 2 3 4 1 2 3 4 1 2 3 4 5 6 1
