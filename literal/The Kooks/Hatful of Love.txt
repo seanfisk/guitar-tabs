@@ -9,6 +9,23 @@ Website: https://github.com/seanfisk/guitar-tabs
 Tempo: About 71 beats per minute
 Tuning: Standard
 
+Guitar:
+Neck volume: 75%
+Bridge volume: 50%
+Tone: 50%
+Voice: single coil
+Tuning: standard
+
+Amp:
+Volume: 10
+FAT: on
+Treble: 5
+Bass: 7
+Mid: 5
+Master: 1.8
+Reverb: 3
+
+
 Note:
 
 This song has at least two guitar tracks in it. However, this tab is for one

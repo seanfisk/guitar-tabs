@@ -1,5 +1,20 @@
 Knockin' On Heaven's Door by Bob Dylan
 
+Guitar:
+Bridge volume: 90%
+Tone: 25%
+Voice: Hot humbucker
+Tuning: standard
+
+Amp:
+Volume: 9
+FAT: on
+Treble: 1
+Bass: 1
+Mid: 1
+Master: 1.8
+Reverb: 3
+
 Tabbed by Sean Fisk
 
 About 63 BPM

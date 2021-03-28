@@ -11,6 +11,23 @@ http://tabs.ultimate-guitar.com/i/iron_and_wine/sodom_south_georgia_crd.htm
 
 Some chords have been altered or corrected.
 
+Guitar:
+Neck volume: 75%
+Bridge volume: 50%
+Tone: 75%
+Voice: single coil
+Tuning: standard
+
+Amp:
+Volume: 6
+FAT: on
+
+Treble: 3
+Bass: 5
+Mid: 5
+Master: 2.5
+Reverb: 8
+
 Tuning: Standard, Capo 7
 Tempo: about 120 BPM
 
