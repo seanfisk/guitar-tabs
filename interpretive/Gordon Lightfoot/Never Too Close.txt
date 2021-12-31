@@ -1,0 +1,89 @@
+Guitar:
+Neck volume: 50%
+Bridge volume: 50%
+Tone: 50%
+Voice: Hot humbucker
+Tuning: standard, A = 448 Hz (ugh)
+
+Amp:
+Volume: 6
+FAT: on
+Treble: 5
+Bass: 7
+Mid: 6
+Master: 2
+Reverb: 6
+
+Another option:
+
+Guitar:
+Neck volume: 75%
+Bridge volume: 50%
+Tone: 50%
+Voice: Single coil
+Tuning: standard, A = 448 Hz (ugh)
+
+Amp:
+Volume: 11
+FAT: on
+Treble: 5
+Bass: 7
+Mid: 6
+Master: Low as it goes
+Reverb: 3
+
+Intro:
+
+A D A A
+A E A A
+
+Verse 1:
+
+    A                  D                   A
+I remember when best friends were jealous lovers
+A             D                 E
+  Lyin' warm asleep beneath the covers
+A                D              A
+  Dreamin' of belonging to each other
+          D                A                E              A
+And so we tried, never too close, never too near, dyin' in time
+          D                    A                  E
+And so we cried, but that is alright, we meant no one no harm
+
+Verse 2:
+    A                  D                 A
+I remember when best friends were not mistaken
+A                    D            E
+  Long before that freedom was forsaken
+A                        D                                A
+  Learnin' about all the good things in the world worth believin'
+          D                A                E              A
+And so we tried, never too close, never too near, dyin' in time
+          D                    A                  E
+And so we cried, but that is alright, we meant no one no harm
+
+Solo:
+
+A D A A
+A E A A
+
+Verse 3:
+    A                   D                    A
+I remember when jealous lovers would stick together
+A                    D                        E
+  When the days were warm and the nights more tender
+A                   D                      A
+  When the bonds of truth were not made to measure
+          D                A                E              A
+And so we tried, never too close, never too near, dyin' in time
+          D                    A                  E
+And so we cried, but that is alright, we meant no one no harm
+D               A               E             A
+Try, try as you will, followin' dreams, never fulfilled
+          D                    A                  E
+And so we cried, but that is alright, we meant no one no harm
+
+Outro:
+
+A D A A
+A E A A
