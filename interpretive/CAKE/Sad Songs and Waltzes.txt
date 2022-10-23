@@ -9,6 +9,8 @@ Website: https://github.com/seanfisk/guitar-tabs
 Tempo: ≈110 BPM
 Tuning: Standard, A = 440 Hz
 
+ESP EC-1000T voice: Hot humbucker
+
 Intro:
 
 Vocalize trumpet part. No lyrics.
