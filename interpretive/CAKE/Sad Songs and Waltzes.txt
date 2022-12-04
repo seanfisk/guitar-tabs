@@ -110,7 +110,7 @@ D|---12----------------10-------11-9--10/---------2-----------------------------
 A|------------------0-----------------------3--4--------------------------------------------------------------0-----------------------------------------
 E|0-----------------------------------0-----------------------------------0-----------------0-----------------------------------------------------------
 
-  E                                   A                                   E
+  E                                   A                                   E                                   A
   1  +  2  +  3  +  1  +  2  +  3  +  1  +  2  +  3  +  1  +  2  +  3  +  1  +  2  +  3  +  1  +  2  +  3  +  1  +  2  +  3  +  1  +  2  +  3  +
 e|------------------------------------------------------------------------------------------------------------5-----------------------------------
 B|------------------------------------------------------2-----------------------------------------------12----5-----------------------------------
@@ -170,6 +170,13 @@ E|------------------------------------------------------------0-----------0-----
 
 Chords & lyrics:
 
+Intro:
+
+A  E  A     D     A
+D     A  D  A     E  A
+
+Verse 1:
+
     A         E          A
 I'm writing a song all about you
   D                       A
@@ -178,6 +185,8 @@ A true song as real as my tears
 But you've no need to fear it, 'cause no one will hear it
 A                            E            A
 Sad songs and waltzes aren't selling this year
+
+Verse 2:
 
      A          E              A
 I'll tell all about how you cheated
@@ -188,6 +197,8 @@ I'd like to get even with you 'cause you're leavin'
     A                            E            A
 But sad songs and waltzes aren't selling this year
 
+Chorus:
+
        E7                        A
 It's a good thing that I'm not a star
     B                        E E7
@@ -196,3 +207,24 @@ You don't know how lucky you are
 Though my record may say it, no one will play it
 A                            E            A
 Sad songs and waltzes aren't selling this year
+
+Solo:
+
+E7    A     E7    A
+E     A     E     A
+
+Chorus:
+
+       E7                        A
+It's a good thing that I'm not a star
+    B                        E E7
+You don't know how lucky you are
+          A                  D
+Though my record may say it, no one will play it
+A                            E            A
+Sad songs and waltzes aren't selling this year
+
+Outro:
+
+A  E  A     D     A
+D     A  D  A     E  A
