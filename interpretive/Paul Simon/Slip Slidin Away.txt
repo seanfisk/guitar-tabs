@@ -11,6 +11,8 @@ Tuning: Standard, A = 440 Hz, capo 1
 
 All notes and chords relative to the capo
 
+Foot tambourine on choruses only starting on Chorus 2
+
 Chords:
 
     G    Em   D    C    C7
