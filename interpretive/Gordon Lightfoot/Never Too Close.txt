@@ -1,36 +1,22 @@
 Guitar:
-Neck volume: 50%
-Bridge volume: 50%
+Pickup switch: Neck only
+Neck volume: 100%
+Bridge volume: 0%
 Tone: 50%
-Voice: Hot humbucker
+Voice: PAF
 Tuning: standard, A = 448 Hz (ugh)
 
-Amp:
-Volume: 6
-FAT: on
-Treble: 5
-Bass: 7
-Mid: 6
-Master: 2
-Reverb: 6
+CS400:
+Level: 3:00
+Tone: 9:00
+Attack: 12:00
+Sustain: 9:00
 
-Another option:
+Wangs VT-1H:
+Tone: 9:00
+Volume: 1:30
 
-Guitar:
-Neck volume: 75%
-Bridge volume: 50%
-Tone: 50%
-Voice: Single coil
-Tuning: standard, A = 448 Hz (ugh)
-
-Amp:
-Volume: 11
-FAT: on
-Treble: 5
-Bass: 7
-Mid: 6
-Master: Low as it goes
-Reverb: 3
+Jensen C12N
 
 Intro:
 
